@@ -2,7 +2,6 @@
 void main()
 {
   printf("Hello world");
-
-  printf("updated for version-2");
+  printf("updated for version-1");
 
 }
